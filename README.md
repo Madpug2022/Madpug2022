@@ -24,6 +24,10 @@
 
 <h4>Social Media</h4>
 
-<a href='https://www.linkedin.com/in/matias-alaimo-chiappa-910560230/'><img src='https://cdn.icon-icons.com/icons2/1996/PNG/512/linkedin_network_people_professional_profile_services_users_icon_123279.png' heigth='75' width='75'/></a>
+<a href='https://www.linkedin.com/in/matias-alaimo-chiappa-910560230/'><img src='https://cdn.icon-icons.com/icons2/1996/PNG/512/linkedin_network_people_professional_profile_services_users_icon_123279.png' heigth='75' width='75'/></a><span> </span><a href='https://www.instagram.com/matias.chiappa/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png' heigth='75' width='75'/></a>
 
-<a href='https://www.instagram.com/matias.chiappa/'><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/768px-Instagram_icon.png' heigth='75' width='75'/></a>
+<hr>
+
+<kbd>
+  <img src="https://wallpaperaccess.com/full/1719697.png">
+</kbd>
