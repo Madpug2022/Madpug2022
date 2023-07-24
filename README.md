@@ -1,10 +1,3 @@
-<style>
-  .someimg {
-    width: 150;
-  }
-</style>
-
-
 <h1>Nice to meet you, I'm Matias A.C.</h1>
 <h3>💻<b> Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain</b></h3>
 
