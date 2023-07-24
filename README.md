@@ -14,7 +14,7 @@
 ~ 📫 How to reach me: matias.chiappa@hotmail.com <br>
 ~ ⚡ Hobbies: Drawing, Videogames and movies. <br>
 
-<img class="someimg" src="https://38.media.tumblr.com/a635ffcdf797d58e93c68df420a92d0f/tumblr_nj0iryrC4U1tga488o1_500.gif" heigth='50' width='50' float='rigth'>
+<img align="right" src="https://38.media.tumblr.com/a635ffcdf797d58e93c68df420a92d0f/tumblr_nj0iryrC4U1tga488o1_500.gif" heigth='200' width='200' float='rigth'>
 
 <hr>
 
