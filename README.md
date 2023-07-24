@@ -1,3 +1,10 @@
+<style>
+  .someimg {
+    width: 150;
+  }
+</style>
+
+
 <h1>Nice to meet you, I'm Matias A.C.</h1>
 <h3>💻<b> Master in Software Development candidate at Assembler Institute of Technology, Barcelona, Spain</b></h3>
 
@@ -14,6 +21,8 @@
 ~ 📫 How to reach me: matias.chiappa@hotmail.com <br>
 ~ ⚡ Hobbies: Drawing, Videogames and movies. <br>
 
+<img class="someimg" src="https://38.media.tumblr.com/a635ffcdf797d58e93c68df420a92d0f/tumblr_nj0iryrC4U1tga488o1_500.gif" heigth='50' width='50' float='rigth'>
+
 <hr>
 
 <h4>Languajes and Tools:</h4>
@@ -28,6 +37,5 @@
 
 <hr>
 
-<kbd>
-  <img src="https://wallpaperaccess.com/full/1719697.png">
-</kbd>
+
+
