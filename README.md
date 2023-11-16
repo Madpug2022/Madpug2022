@@ -1,5 +1,5 @@
 <h1>Nice to meet you, I'm Matias A.C.</h1>
-<h3>💻<b> Front End Developer at Assembler Institute of Technology, Barcelona, Spain</b></h3>
+<h3>💻<b> FullStack Developer at Metary, Dubai</b></h3>
 
 <kbd>
   <img src="https://www.seaofthieves-france.fr/wp-content/uploads/2023/06/monkey-island-ile-de-melee.jpg">
@@ -8,16 +8,17 @@
 <hr>
 
 
+<img align="right" src="https://38.media.tumblr.com/a635ffcdf797d58e93c68df420a92d0f/tumblr_nj0iryrC4U1tga488o1_500.gif" heigth='500' width='500' float='rigth'>
 
-🔭 I’m currently looking for working on a company as Frontend developer.<img align="right" src="https://38.media.tumblr.com/a635ffcdf797d58e93c68df420a92d0f/tumblr_nj0iryrC4U1tga488o1_500.gif" heigth='200' width='200' float='rigth'>
+<a href="https://app.daily.dev/matiasalaimochiappa"><img src="https://api.daily.dev/devcards/bbf10b2a795c48609517327b94388f8c.png?r=dku" width="400" alt="Matias Alaimo Chiappa's Dev Card"/></a>
 
-~ 🌱 I’m currently learning: Phyton <br>
+ 🌱 **I’m currently learning:** Java <br>
 
-~ 💬 Ask me about anything you want <br>
+ 💬 **You can take a look to my portfolio** [here](https://matias-a-ch-portfolio.vercel.app/#contact) <br>
 
-~ 📫 How to reach me: matias.chiappa@hotmail.com <br>
+ 📫 **How to reach me:** [here you go](https://matias-a-ch-portfolio.vercel.app/#contact) <br>
 
-~ ⚡ Hobbies: Drawing, Videogames and movies. <br>
+ ⚡ **Hobbies:** Drawing, Videogames and movies. <br>
 
 
 
