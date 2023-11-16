@@ -8,7 +8,7 @@
 <hr>
 
 
-<img align="right" src="https://38.media.tumblr.com/a635ffcdf797d58e93c68df420a92d0f/tumblr_nj0iryrC4U1tga488o1_500.gif" heigth='500' width='500' float='rigth'>
+<img align="right" src="https://38.media.tumblr.com/a635ffcdf797d58e93c68df420a92d0f/tumblr_nj0iryrC4U1tga488o1_500.gif" heigth='400' width='400' float='rigth'>
 
 <a href="https://app.daily.dev/matiasalaimochiappa"><img src="https://api.daily.dev/devcards/bbf10b2a795c48609517327b94388f8c.png?r=dku" width="400" alt="Matias Alaimo Chiappa's Dev Card"/></a>
 
